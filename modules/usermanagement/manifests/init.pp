@@ -1,0 +1,3 @@
+class usermanagement {
+  # empty class
+}
